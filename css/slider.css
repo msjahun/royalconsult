@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+body {
+    background: #f1f1f1;
+}
+
+.slideshow{
+    width:800px;
+    height:400px;
+    margin:20px auto;
+    background:#fff;
+}
+.slideshow img{
+    width:800px;
+    height:300px;
+}
